@@ -24,7 +24,7 @@ body {
 
 .attribution {
     margin: auto;
-    display: block;
+
 }
 
 
@@ -56,4 +56,13 @@ body {
     height: 3.5ex;
     border: 2px;
     border-radius: 10px;
+}
+
+.do {
+    color: gray;
+}
+
+.me:hover {
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
 }
