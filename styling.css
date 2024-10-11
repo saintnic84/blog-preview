@@ -66,3 +66,6 @@ body {
     color: hsl(47, 88%, 63%);
     cursor: pointer;
 }
+
+
+@media (max-width: 375px) {}
