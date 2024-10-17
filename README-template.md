@@ -77,8 +77,8 @@ I want to focus on how I can better replicate the images I see into my own code.
 
 ### Useful resources
 
-- [Resource 1](https://developer.mozilla.org/en-US/) - This website is one of the resources online for front end developers. If there's a concept, code, or element you don't understand, you can probably find it at this site. This is where I got better equiped at understanding margin and padding.
-- [Resource 2](https://www.w3schools.com/) - This is a great website for both front end and back end programming languages, I regulary visit here to refresh concepts that I may have forgotten
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/) - This website is one of the resources online for front end developers. If there's a concept, code, or element you don't understand, you can probably find it at this site. This is where I got better equiped at understanding margin and padding.
+- [W3schools](https://www.w3schools.com/) - This is a great website for both front end and back end programming languages, I regulary visit here to refresh concepts that I may have forgotten
 
 
 ## Author
