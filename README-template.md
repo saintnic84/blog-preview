@@ -31,7 +31,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Blog Preview](https://saintnic84.github.io/blog-preview/)
 
 ## My process
