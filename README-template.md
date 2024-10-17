@@ -48,32 +48,31 @@ Users should be able to:
 
 ### What I learned
 
-I learned how to better orient my div elements through the use of the margin element. Also I improved on using figma designs to better help with the development of my project.
+I learned how to better orient my div elements through the use of the margin element. Also I improved on using figma designs to better help with the development of my project. Additionally, I was able to perfectly align my text with one of the images provided while keeping both elements inline.
 
 To see how you can add code snippets, see below:
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<div class="center">
+      <img src="assets/images/image-avatar.webp" alt="Greg Hooper Picture" class="hoop">
+      <span class="img-text"><b>Greg Hooper</b></span>
+    </div>
+
 ```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
+.la {
+    background-color: hsl(47, 88%, 63%);
+    width: 5em;
+    height: 3.5ex;
+    border: 2px;
+    border-radius: 10px;
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
 I want to focus on how I can better replicate the images I see into my own code. I've only just started, but I'm so frustrated that my project doesn't perfectly match the challenge.
-
 
 
 ### Useful resources
@@ -84,7 +83,7 @@ I want to focus on how I can better replicate the images I see into my own code.
 
 ## Author
 
-- Website - [Nic Mwangi](https://www.your-site.com)
+- Website - [Nic Mwangi](https://saintnic84.github.io/)
 - Frontend Mentor - [@saintnic84](https://www.frontendmentor.io/profile/saintnic84)
 
 
